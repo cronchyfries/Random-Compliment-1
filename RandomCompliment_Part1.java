@@ -1,9 +1,3 @@
-/*
- * Kalena Abrahim
- * 4/14/24
- * Random Compliment 1
- */
-
  import java.util.Random;
  import java.util.Scanner;
  
@@ -87,11 +81,3 @@
      }
  }
  
- /*
- 1. How much time (in hours) was required to complete this lab?
- About an hour.
- 2. What was the hardest part of this lab?
- Outputting the random compliments.
- 3. What will you always remember (never forget) from this exercise?
- Formatting code.
- */
