@@ -1,9 +1,3 @@
-/*
- * Kalena Abrahim
- * 4/21/24
- * Random Compliment 2
- */
-
  import java.util.Random;
  import java.util.Scanner;
  
@@ -81,11 +75,3 @@
      }
  }
  
- /*
- 1. How much time (in hours) was required to complete the lab? (CRITICAL QUESTION)
- About an hour and a half.
- 2. What was the hardest part of this lab?
- The compliment output.
- 3. What will you always remember (never forget) from this exercise?
- Formatting.
- */
